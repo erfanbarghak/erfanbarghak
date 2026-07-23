@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/erfanbarqak/erfanbarqak/main/banner.png" alt="Erfan Barqak Banner" width="100%" />
+</h1>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/erfanbarqak/erfanbarqak/main/logo.png" alt="لوگو عرفان برقک" width="180" height="180" style="border-radius: 50%; border: 5px solid #00BFFF;" />
+</div>
+
 <h1 align="center">👋 سلام، من عرفان برقک هستم</h1>
 <h3 align="center">توسعه‌دهنده نرم‌افزار | علاقه‌مند به هوش مصنوعی و سیستم‌های مقیاس‌پذیر</h3>
 
@@ -34,6 +42,7 @@
 ## 🛠️ مهارت‌های تخصصی
 
 ### زبان‌ها و فناوری‌های برجسته
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -51,20 +60,22 @@
 </p>
 
 ### جزئیات مهارت‌ها
-| دسته‌بندی | مهارت‌ها | سطح |
-|-----------|----------|------|
-| **Backend** | PHP (Laravel), Python | 🔵 پیشرفته |
-| **Frontend** | JavaScript, React.js | 🟢 متوسط |
-| **داده و هوش مصنوعی** | Python (Data Science), AI | 🔵 پیشرفته |
-| **DevOps** | Docker, Linux, Git, Cloudflare | 🟡 متوسط |
-| **موبایل** | Dart/Flutter, Java, Kotlin, Android Studio | 🟢 مبتدی |
-| **طراحی** | Photoshop, Illustrator | 🟢 مبتدی |
-| **سیستم‌عامل** | Windows, Linux | 🔵 پیشرفته |
-| **ابزارهای اداری** | Microsoft Office, Camtasia | 🔵 پیشرفته |
+
+| دسته‌بندی              | مهارت‌ها                          | سطح       |
+|-----------------------|----------------------------------|-----------|
+| **Backend**           | PHP (Laravel), Python            | 🔵 پیشرفته |
+| **Frontend**          | JavaScript, React.js             | 🟢 متوسط   |
+| **داده و هوش مصنوعی**| Python (Data Science), AI        | 🔵 پیشرفته |
+| **DevOps**            | Docker, Linux, Git, Cloudflare   | 🟡 متوسط   |
+| **موبایل**           | Dart/Flutter, Java, Kotlin       | 🟢 مبتدی   |
+| **طراحی**            | Photoshop, Illustrator           | 🟢 مبتدی   |
+| **سیستم‌عامل**       | Windows, Linux                   | 🔵 پیشرفته |
+| **ابزارهای اداری**  | Microsoft Office, Camtasia       | 🔵 پیشرفته |
 
 ---
 
 ## 📊 آمار گیت‌هاب
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erfanbarqak&show_icons=true&theme=radical&locale=fa" alt="آمار گیت‌هاب" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanbarqak&layout=compact&theme=radical&locale=fa" alt="زبان‌های برتر" />
@@ -76,66 +87,18 @@
 
 ---
 
-## 🏆 پروژه‌های برتر
-
-### 🌙 نور اصلاه
-> برنامه آموزش گام‌به‌گام نماز با تصاویر و انیمیشن - ویژه یادگیری کامل نماز از صفر تا صد
-
-**تکنولوژی‌ها:**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-</p>
-
-**ویژگی‌ها:**
-- ✅ آموزش وضو، اذان، حمد، سوره، رکوع، سجود و تشهد
-- ✅ تصاویر و انیمیشن‌های آموزشی
-- ✅ پرسش و پاسخ برای رفع شبهات
-- ✅ بدون بخش‌های اضافی برای تمرکز کامل
-
----
-
-### 🕊️ شهدای دانش‌آموز کهگیلویه
-> برنامه معرفی شهدای دانش‌آموز با زندگینامه، وصیت‌نامه، خاطرات و تصاویر
-
-**تکنولوژی‌ها:**
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-</p>
-
-**ویژگی‌ها:**
-- ✅ معرفی شهدای دانش‌آموز شهرستان کهگیلویه
-- ✅ زندگینامه، وصیت‌نامه و خاطرات
-- ✅ تقویت روحیه جهادی و معنویت در دانش‌آموزان
-
----
-
-### 🌹 باغ شهدا - میناب
-> یادمان شهدای دانش‌آموز میناب - واقعه تلخ و جان‌گذار
-
-**تکنولوژی‌ها:**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
-
----
-
 ## 📜 گواهینامه‌ها
-| گواهینامه | موسسه | سال |
-|-----------|-------|-----|
-| **Full-Stack Web Development** | Coursera - University of Michigan | ۲۰۲۳ |
-| **Advanced React & Next.js** | Udemy | ۲۰۲۲ |
-| **Professional Scrum Master I** | Scrum.org | ۲۰۲۳ |
+
+| گواهینامه                        | موسسه                        | سال  |
+|----------------------------------|-----------------------------|------|
+| **Full-Stack Web Development**   | Coursera - University of Michigan | ۲۰۲۳ |
+| **Advanced React & Next.js**     | Udemy                       | ۲۰۲۲ |
+| **Professional Scrum Master I**  | Scrum.org                   | ۲۰۲۳ |
 
 ---
 
 ## 🎯 اهداف آینده
+
 - [ ] یادگیری عمیق هوش مصنوعی و یادگیری ماشین
 - [ ] توسعه سیستم‌های مقیاس‌پذیر برای تعاملات جهانی
 - [ ] تکمیل پروژه‌های متن‌باز در حوزه آموزش
@@ -144,6 +107,7 @@
 ---
 
 ## 📫 ارتباط با من
+
 <p align="center">
   <a href="https://ebarqak.ir">
     <img src="https://img.shields.io/badge/وب‌سایت-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -173,11 +137,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
----
-
-
----
 
 <p align="center">
   <b>با ❤️ از ایران</b>
