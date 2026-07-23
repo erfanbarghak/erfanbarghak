@@ -130,12 +130,6 @@ https://ebarqak.ir
 
 ---
 
-<div align="center">
-
-<img src="assets/divider.svg" width="100%">
-
-</div>
-
 <!-- ====================================================== -->
 <!--                 SKILLS & TECH STACK                    -->
 <!-- ====================================================== -->
@@ -358,12 +352,6 @@ DevOps            ████████████░░░░░░░ 75%
 - Microservices
 
 ---
-
-<div align="center">
-
-<img src="assets/circuit-divider.svg" width="100%">
-
-</div>
 
 <!-- ====================================================== -->
 <!--                 FEATURED PROJECTS                      -->
@@ -633,11 +621,6 @@ Scalable backend systems.
 
 ---
 
-<div align="center">
-
-<img src="assets/projects/project-divider.svg" width="100%">
-
-</div>
 
 <!-- ====================================================== -->
 <!--           EXPERIENCE & SPECIALIZATIONS                 -->
@@ -919,37 +902,11 @@ Production
 
 - Cloud Infrastructure
 
----
 
-<div align="center">
-
-<img src="assets/specialization.png" width="900">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="assets/divider-experience.svg" width="100%">
-
-</div>
 
 <!-- ====================================================== -->
 <!--              GITHUB DASHBOARD                          -->
 <!-- ====================================================== -->
-
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ErfanBarqak&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=F5A623&icon_color=F5A623&text_color=FFFFFF"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanBarqak&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=F5A623"/>
-
-</div>
 
 ---
 
@@ -984,15 +941,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanBarqak&
 
 </div>
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ErfanBarqak/ErfanBarqak/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
@@ -1153,11 +1101,6 @@ Monitoring
 
 ---
 
-<div align="center">
-
-<img src="assets/dashboard-divider.svg" width="100%">
-
-</div>
 
 <!-- ====================================================== -->
 <!--              DEVELOPER JOURNEY                         -->
@@ -1558,11 +1501,7 @@ Innovation
 
 ---
 
-<div align="center">
 
-<img src="assets/journey-divider.svg" width="100%">
-
-</div>
 
 <!-- ====================================================== -->
 <!--               CONTACT & CONNECT                        -->
@@ -1747,7 +1686,6 @@ It motivates me to build more open-source projects.
 
 ### Made with ❤️, ☕, PHP, Flutter and Artificial Intelligence
 
-<img src="assets/final-divider.svg" width="100%">
 
 </div>
 
