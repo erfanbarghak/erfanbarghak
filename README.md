@@ -34,7 +34,7 @@ Building Intelligent Software with Modern Technologies
 
 [![Website](https://img.shields.io/badge/Website-ebarqak.ir-F5A623?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ebarqak.ir)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ErfanBarqak-181717?style=for-the-badge&logo=github)](https://github.com/ErfanBarqak)
+[![GitHub](https://img.shields.io/badge/GitHub-erfanbarghak-181717?style=for-the-badge&logo=github)](https://github.com/erfanbarghak)
 
 [![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
@@ -109,7 +109,7 @@ https://ebarqak.ir
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ErfanBarqak&label=Profile%20Views&color=F5A623&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=erfanbarghak&label=Profile%20Views&color=F5A623&style=for-the-badge" />
 
 </div>
 
@@ -915,7 +915,7 @@ Production
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=ErfanBarqak&theme=github-dark&hide_border=true&ring=F5A623&fire=F5A623"/>
+src="https://streak-stats.demolab.com?user=erfanbarghak&theme=github-dark&hide_border=true&ring=F5A623&fire=F5A623"/>
 
 </div>
 
@@ -926,7 +926,7 @@ src="https://streak-stats.demolab.com?user=ErfanBarqak&theme=github-dark&hide_bo
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=ErfanBarqak&theme=algolia&column=4&margin-w=20&margin-h=20&no-frame=true"/>
+src="https://github-profile-trophy.vercel.app/?username=erfanbarghak&theme=algolia&column=4&margin-w=20&margin-h=20&no-frame=true"/>
 
 </div>
 
@@ -937,30 +937,10 @@ src="https://github-profile-trophy.vercel.app/?username=ErfanBarqak&theme=algoli
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanBarqak&theme=github-compact&hide_border=true&color=F5A623&line=F5A623&point=FFFFFF"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=erfanbarghak&theme=github-compact&hide_border=true&color=F5A623&line=F5A623&point=FFFFFF"/>
 
 </div>
 
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="assets/github-calendar.png"/>
-
-</div>
-
----
-
-# ⌨ Weekly Coding Activity
-
-<div align="center">
-
-<img src="assets/wakatime.png"/>
-
-</div>
 
 ---
 
@@ -1087,34 +1067,12 @@ Monitoring
 
 ---
 
-# 💬 Favorite Quote
-
-> **"Code is temporary. Architecture is forever."**
-
----
-
-<div align="center">
-
-<img src="assets/github-dashboard.png" width="900">
-
-</div>
-
----
-
 
 <!-- ====================================================== -->
 <!--              DEVELOPER JOURNEY                         -->
 <!-- ====================================================== -->
 
-# 👨‍💻 Developer Journey
 
-<div align="center">
-
-<img src="assets/developer-journey.png" width="100%" />
-
-</div>
-
----
 
 # 🚀 Mission
 
@@ -1525,19 +1483,11 @@ Innovation
 <img src="https://img.shields.io/badge/🌐_Website-ebarqak.ir-F5A623?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/ErfanBarqak">
+<a href="https://github.com/erfanbarghak">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://x.com/your-account">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="mailto:you@example.com">
+<a href="mailto:barerf1232@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -1591,9 +1541,9 @@ I'm open to collaborating on projects related to:
 ```text
 🌍 Website  : https://ebarqak.ir
 
-💻 GitHub   : github.com/ErfanBarqak
+💻 GitHub   : github.com/erfanbarghak
 
-📧 Email    : you@example.com
+📧 Email    : barerf1232@gmail.com
 
 📍 Location : Available for Remote Collaboration
 ```
